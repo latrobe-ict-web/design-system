@@ -28,4 +28,4 @@ This results in the following font sizes:
 
 Using multiples of 0.25rem for all sizes, margins and padding effectively creates a design that aligns with a 0.25rem grid.
 
-For viweports < 1440px, 0.25rem equals 4px. For viewports > 1440px 0.25rem equals 4.5px.
+For viewports < 1440px, 0.25rem equals 4px. For viewports > 1440px 0.25rem equals 4.5px.

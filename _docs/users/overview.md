@@ -8,7 +8,7 @@ text: Documentation for the users of the pattern library.
 
 ## Squiz Matrix CMS
 
-La Trobe's Squiz matrix CMS is already making use of the Design System - see the dcumentation here: [https://www.latrobe.edu.au/ds/ds-home](https://www.latrobe.edu.au/ds/ds-home)
+La Trobe's Squiz Matrix CMS is already making use of the Design System - see the dcumentation here: [https://www.latrobe.edu.au/ds/ds-home](https://www.latrobe.edu.au/ds/ds-home)
 
 
 ## Other CMS developers, hand coded site developers, or other website products
